@@ -61,7 +61,8 @@
     </div> <!-- /.container -->
     <footer>
       <div class="container">
-        <p class="text-muted text-center"><small>Made with love by: <a href="https://github.com/JayHoltslander">Jay Holtslander</a></small></p>
+        <p class="text-muted text-center"><small>Made with love by: Jay Holtslander</small></p>
+        <p><iframe src="https://ghbtns.com/github-btn.html?user=JayHoltslander&repo=Apache-htaccess-Status-Page&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe><iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="220px" height="30px"></iframe></p>
       </div>
     </footer>
 </body>
